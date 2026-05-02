@@ -1,7 +1,7 @@
 [
-  { "name": "M416 突击步枪", "id": "Weapon_AK47_C", "type": "自动步枪", "hot": true },
-  { "name": "三级头盔", "id": "Armor_Helmet_Level3_C", "type": "防具", "hot": true },
-  { "name": "三级背包", "id": "Bag_Level3_C", "type": "装备", "hot": false },
-  { "name": "肾上腺素", "id": "Adrenaline_C", "type": "消耗品", "hot": true },
-  { "name": "八倍镜", "id": "Sight_8X_C", "type": "配件", "hot": false }
+  { "name": "M416 基础代码", "id": "Weapon_AK47_C", "type": "枪械" },
+  { "name": "三级头盔美化", "id": "Armor_Helmet_L3", "type": "头盔" },
+  { "name": "粉色背带裙", "id": "Suit_Pink_Dress", "type": "人物" },
+  { "name": "碎片手雷皮肤", "id": "Grenade_Skin_01", "type": "投掷物" },
+  { "name": "三级背包代码", "id": "Bag_Level3_Code", "type": "背包" }
 ]
